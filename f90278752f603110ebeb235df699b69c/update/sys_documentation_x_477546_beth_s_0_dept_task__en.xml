@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="DEPT TASK" language="en" table="x_477546_beth_s_0_dept_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>DEPT TASK</label>
+            <language>en</language>
+            <name>x_477546_beth_s_0_dept_task</name>
+            <plural>DEPT TASKs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-09 18:58:14</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DEPT TASK</sys_name>
+            <sys_package display_value="BETH'S DEPT APP" source="x_477546_beth_s_0">f90278752f603110ebeb235df699b69c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BETH'S DEPT APP">f90278752f603110ebeb235df699b69c</sys_scope>
+            <sys_update_name>sys_documentation_x_477546_beth_s_0_dept_task__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-09 18:58:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
